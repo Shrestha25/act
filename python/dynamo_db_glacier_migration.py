@@ -49,7 +49,7 @@ for x in buckets_list:
                         }
                     ]
                 }
-            )
+            ) 
             print(response['ResponseMetadata']['HTTPStatusCode'])
         except:
             print("Error occured")
