@@ -12,3 +12,6 @@ node_modules
 .vscode
 *.exe
 *.class
+*.o
+*.a
+*.so
